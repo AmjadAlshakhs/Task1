@@ -1,6 +1,8 @@
 # Task1
 CONNECT ESP32 TO ARDUINO &amp; speech to Text in JavaScript
 
+For Esp32:
+
 Steps:
 
 1- Plug the ESP32 to your PC or laptob by using micro cable.
